@@ -1,0 +1,32 @@
+Question: List all locations in gopalapuram
+Answer: The SQL query is selecting the `location` column from the `stations` table where the `area` column is equal to 'gopalapuram' and limiting the results to 5. The SQL result shows the first 5 locations in gopalapuram, which are cathedralroad, dav, nps, gground, and rjunction.
+
+Question: List the number of ports available in gopalapuram with respect to each location
+Answer: The SQL result shows that there is 1 port available in each of the following locations in gopalapuram: cathedralroad, dav, nps, gground, and rjunction.
+
+Question: List all locations in gopalapuram
+Answer: The SQL query is selecting the `location` column from the `stations` table where the `area` column is equal to 'gopalapuram' and limiting the results to 5. The SQL result shows the first 5 locations in gopalapuram, which are cathedralroad, dav, nps, gground, and rjunction.
+
+Question: What is the number of ports in nps
+Answer: The number of ports in nps is 1.
+
+Question: list mw the port detalis for nps
+Answer: The SQL result lists the port details for NPS in Gopalapuram, including the port number, price, and contact information. In this case, the result shows that there is one port (port number 5) available at NPS in Gopalapuram, with a price of 110 and a contact number of 9897656555.
+
+Question: provide me a alwarrpet port details and contacts
+Answer: The SQL query is selecting the port, price, and contact information from the stations table where the area is equal to 'alwarpet' and limiting the results to 5. The SQL result shows the port numbers, prices, and contact numbers for the first 5 stations in alwarpet.
+
+Question: provide me a alwarrpet port and contacts details
+Answer: 
+The SQL query is selecting the `port` and `contact` columns from the `stations` table where the `area` is equal to 'alwarpet'. The LIMIT 5 clause means that only the first 5 results will be returned.
+
+The SQL result shows the `port` and `contact` details for the first 5 stations in the alwarpet area. The first number in each tuple represents the port number, and the second number represents the contact details for that station.
+
+Therefore, the answer to the user's question is: The alwarpet area has 5 stations with the following port and contact details: Station 5 - Port: 9776654597, Contact: 9723654597; Station 15 - Port: 15, Contact: 9723654597; Station 25 - Port: 25, Contact: 8623654597; Station 10 - Port: 10, Contact: 6823654597.
+
+Question: List all locations in gopalapuram
+Answer: The SQL query is selecting the `location` column from the `stations` table where the `area` column is equal to 'gopalapuram' and limiting the results to 5. The SQL result shows the first 5 locations in gopalapuram, which are cathedralroad, dav, nps, gground, and rjunction.
+
+Question: List all locations in gopalapuram
+Answer: The SQL query is selecting the `location` column from the `stations` table where the `area` column is equal to 'gopalapuram' and limiting the results to 5. The SQL result shows the first 5 locations in gopalapuram, which are cathedralroad, dav, nps, gground, and rjunction.
+
